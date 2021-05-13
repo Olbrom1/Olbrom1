@@ -1,4 +1,3 @@
 - 👋 Hi, my name is Łukasz Olbromski
-- 👀 I’m interested in 
 - 🌱 I’m currently learning Javascript
 - 📫 Mail: lukasz.olbromski1@gmail.com
