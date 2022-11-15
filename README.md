@@ -1,3 +1,4 @@
 - 👋 Hi, my name is Łukasz Olbromski
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Javascript for raise my skills in frontend progarmming
 - 📫 Mail: lukasz.olbromski1@gmail.com
+- 💻Im looking for first internship or job
